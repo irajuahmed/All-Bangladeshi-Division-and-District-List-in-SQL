@@ -61,6 +61,5 @@ INSERT [dbo].[District] ([Id], [Name], [DivisionId]) VALUES (14, N'Bogura', 2)
 
 * **Raju Ahmed** - *Initial work* - [RajuAhmed](https://github.com/erajuahmed)
 
-## Acknowledgments
-
+## Note : 
 * It can be changed on administrative changes by the Bangladeshi Govt.
