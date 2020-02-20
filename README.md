@@ -1,6 +1,7 @@
 ## Intoduction 
 
-Sometime we need to all bangladeshi divisions and district data in sql format but it's hard to find it in open source.
+Sometime we need to all bangladeshi divisions and district data in sql format but it's hard to find it in open source. That's why I made 
+bangladeshi all division and bangladeshi all district data in sql format.
 
 ### SQL Table(s)
 
