@@ -8,6 +8,10 @@
     Target Database Engine Edition : Microsoft SQL Server Standard Edition
     Target Database Engine Type : Standalone SQL Server
 */
+USE master
+GO
+CREATE DATABASE [BDInfo]
+GO
 USE [BDInfo]
 GO
 /****** Object:  Table [dbo].[District]    Script Date: 2/20/2020 7:01:44 PM ******/
